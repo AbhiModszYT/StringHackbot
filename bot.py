@@ -149,9 +149,9 @@ channel = "AbhiModszYT_Return"
 menu = '''
 ┏━━━━━━━━━❥
 ┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AbhiModszYT_Return
+┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
 ┗━━━━━━━━━❥
-**Updates JOIN @AbhiModszYT_Return**
+**Updates JOIN @AmBotYT**
 
 
 
@@ -197,7 +197,7 @@ I ADD MORE FEATURES LATER
 mm = '''
 ┏━━━━━━━━━❥
 ┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AbhiModszYT_Return
+┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
 ┗━━━━━━━━━❥
 i can hack anybody
 Take his StringSession and use me
